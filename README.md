@@ -26,4 +26,16 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prathamesh250205/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prathamesh250205/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Prathamesh250205/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
