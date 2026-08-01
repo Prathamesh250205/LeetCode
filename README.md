@@ -11,6 +11,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prathamesh250205/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Prathamesh250205/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -64,4 +65,9 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Prathamesh250205/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
