@@ -62,6 +62,7 @@
 | [0039-combination-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0088-merge-sorted-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Prathamesh250205/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0022-generate-parentheses) |
+| [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0007-reverse-integer](https://github.com/Prathamesh250205/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Prathamesh250205/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Prathamesh250205/LeetCode/tree/master/0029-divide-two-integers) |
+| [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -147,4 +150,8 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Prathamesh250205/LeetCode/tree/master/0036-valid-sudoku) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
