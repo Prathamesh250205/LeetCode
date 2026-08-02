@@ -86,4 +86,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Prathamesh250205/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
