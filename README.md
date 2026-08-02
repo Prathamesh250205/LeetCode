@@ -55,11 +55,13 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prathamesh250205/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Prathamesh250205/LeetCode/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Prathamesh250205/LeetCode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Prathamesh250205/LeetCode/tree/master/0036-valid-sudoku) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prathamesh250205/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0035-search-insert-position](https://github.com/Prathamesh250205/LeetCode/tree/master/0035-search-insert-position) |
 ## Divide and Conquer
 |  |
 | ------- |
