@@ -8,6 +8,7 @@
 | [0012-integer-to-roman](https://github.com/Prathamesh250205/LeetCode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Prathamesh250205/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/Prathamesh250205/LeetCode/tree/master/0036-valid-sudoku) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Prathamesh250205/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Prathamesh250205/LeetCode/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/Prathamesh250205/LeetCode/tree/master/0036-valid-sudoku) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,4 +130,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prathamesh250205/LeetCode/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Prathamesh250205/LeetCode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
