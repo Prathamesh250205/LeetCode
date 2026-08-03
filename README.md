@@ -21,6 +21,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Prathamesh250205/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Prathamesh250205/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [0007-reverse-integer](https://github.com/Prathamesh250205/LeetCode/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Prathamesh250205/LeetCode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Prathamesh250205/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 ## Heap (Priority Queue)
 |  |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prathamesh250205/LeetCode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
 ## Matrix
 |  |
 | ------- |
@@ -155,4 +158,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
