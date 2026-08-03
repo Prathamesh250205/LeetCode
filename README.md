@@ -33,6 +33,7 @@
 | [0344-reverse-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Prathamesh250205/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0088-merge-sorted-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Prathamesh250205/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0392-is-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Prathamesh250205/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0022-generate-parentheses) |
+| [0392-is-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 ## Backtracking
 |  |
