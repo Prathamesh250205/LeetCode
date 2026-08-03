@@ -9,6 +9,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Prathamesh250205/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Prathamesh250205/LeetCode/tree/master/0036-valid-sudoku) |
+| [0205-isomorphic-strings](https://github.com/Prathamesh250205/LeetCode/tree/master/0205-isomorphic-strings) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@
 | [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Prathamesh250205/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh250205/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0205-isomorphic-strings](https://github.com/Prathamesh250205/LeetCode/tree/master/0205-isomorphic-strings) |
 ## Sliding Window
 |  |
 | ------- |
