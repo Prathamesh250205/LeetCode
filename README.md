@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/Prathamesh250205/LeetCode/tree/master/0036-valid-sudoku) |
 | [0205-isomorphic-strings](https://github.com/Prathamesh250205/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Prathamesh250205/LeetCode/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Prathamesh250205/LeetCode/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -29,6 +30,7 @@
 | [0205-isomorphic-strings](https://github.com/Prathamesh250205/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Prathamesh250205/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Prathamesh250205/LeetCode/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -173,4 +175,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Prathamesh250205/LeetCode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
