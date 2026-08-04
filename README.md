@@ -82,6 +82,7 @@
 | [0039-combination-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Prathamesh250205/LeetCode/tree/master/0041-first-missing-positive) |
+| [0051-n-queens](https://github.com/Prathamesh250205/LeetCode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Prathamesh250205/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -152,6 +153,7 @@
 | [0022-generate-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Prathamesh250205/LeetCode/tree/master/0051-n-queens) |
 ## Tree
 |  |
 | ------- |
@@ -233,4 +235,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Prathamesh250205/LeetCode/tree/master/0169-majority-element) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Prathamesh250205/LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
