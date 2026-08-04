@@ -31,6 +31,7 @@
 | [0043-multiply-strings](https://github.com/Prathamesh250205/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Prathamesh250205/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/Prathamesh250205/LeetCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Prathamesh250205/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh250205/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Prathamesh250205/LeetCode/tree/master/0205-isomorphic-strings) |
@@ -86,6 +87,7 @@
 | [0051-n-queens](https://github.com/Prathamesh250205/LeetCode/tree/master/0051-n-queens) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Prathamesh250205/LeetCode/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Prathamesh250205/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0136-single-number) |
@@ -155,6 +157,7 @@
 | [0039-combination-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Prathamesh250205/LeetCode/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/Prathamesh250205/LeetCode/tree/master/0079-word-search) |
 ## Tree
 |  |
 | ------- |
@@ -163,6 +166,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Prathamesh250205/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 ## Binary Tree
 |  |
@@ -207,6 +211,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/Prathamesh250205/LeetCode/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Prathamesh250205/LeetCode/tree/master/0079-word-search) |
 ## Game Theory
 |  |
 | ------- |
