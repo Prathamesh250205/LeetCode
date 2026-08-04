@@ -17,6 +17,7 @@
 | [0383-ransom-note](https://github.com/Prathamesh250205/LeetCode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Prathamesh250205/LeetCode/tree/master/0409-longest-palindrome) |
+| [3731-find-missing-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0217-contains-duplicate](https://github.com/Prathamesh250205/LeetCode/tree/master/0217-contains-duplicate) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0217-contains-duplicate](https://github.com/Prathamesh250205/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prathamesh250205/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0389-find-the-difference) |
+| [3731-find-missing-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
