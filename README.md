@@ -81,6 +81,7 @@
 | [0066-plus-one](https://github.com/Prathamesh250205/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0136-single-number) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
 ## Binary Search
@@ -183,6 +184,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prathamesh250205/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0136-single-number) |
 | [0389-find-the-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Prathamesh250205/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Matrix
