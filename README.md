@@ -10,6 +10,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Prathamesh250205/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Prathamesh250205/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Prathamesh250205/LeetCode/tree/master/0041-first-missing-positive) |
+| [0141-linked-list-cycle](https://github.com/Prathamesh250205/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Prathamesh250205/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Prathamesh250205/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Prathamesh250205/LeetCode/tree/master/0217-contains-duplicate) |
@@ -56,6 +57,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Prathamesh250205/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Prathamesh250205/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Prathamesh250205/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -126,6 +128,7 @@
 | [0031-next-permutation](https://github.com/Prathamesh250205/LeetCode/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Prathamesh250205/LeetCode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Prathamesh250205/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0344-reverse-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -253,4 +256,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Prathamesh250205/LeetCode/tree/master/0051-n-queens) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Prathamesh250205/LeetCode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
