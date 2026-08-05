@@ -198,6 +198,7 @@
 | ------- |
 | [0079-word-search](https://github.com/Prathamesh250205/LeetCode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -282,4 +283,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prathamesh250205/LeetCode/tree/master/0141-linked-list-cycle) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
