@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/Prathamesh250205/LeetCode/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Prathamesh250205/LeetCode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Prathamesh250205/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prathamesh250205/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Prathamesh250205/LeetCode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Prathamesh250205/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Prathamesh250205/LeetCode/tree/master/0217-contains-duplicate) |
@@ -60,6 +61,7 @@
 | [0141-linked-list-cycle](https://github.com/Prathamesh250205/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prathamesh250205/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -136,6 +138,7 @@
 | [0125-valid-palindrome](https://github.com/Prathamesh250205/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Prathamesh250205/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prathamesh250205/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0392-is-subsequence) |
