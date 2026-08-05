@@ -32,6 +32,7 @@
 | [0022-generate-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Prathamesh250205/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Prathamesh250205/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Prathamesh250205/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
@@ -83,6 +84,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Array
@@ -175,6 +177,7 @@
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Prathamesh250205/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0392-is-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
@@ -291,4 +294,8 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
