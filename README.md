@@ -84,6 +84,7 @@
 | [0641-design-circular-deque](https://github.com/Prathamesh250205/LeetCode/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
+| [1670-design-front-middle-back-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Prathamesh250205/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
@@ -137,6 +138,7 @@
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
+| [1670-design-front-middle-back-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prathamesh250205/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Prathamesh250205/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Prathamesh250205/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -365,6 +367,7 @@
 | [0622-design-circular-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Prathamesh250205/LeetCode/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Prathamesh250205/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 ## Queue
 |  |
 | ------- |
@@ -375,14 +378,20 @@
 | [0641-design-circular-deque](https://github.com/Prathamesh250205/LeetCode/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/Prathamesh250205/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prathamesh250205/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Prathamesh250205/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Prathamesh250205/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1670-design-front-middle-back-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
