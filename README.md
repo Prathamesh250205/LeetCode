@@ -44,6 +44,7 @@
 | [0125-valid-palindrome](https://github.com/Prathamesh250205/LeetCode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh250205/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Prathamesh250205/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0227-basic-calculator-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Prathamesh250205/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Prathamesh250205/LeetCode/tree/master/0383-ransom-note) |
@@ -107,6 +108,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Prathamesh250205/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Prathamesh250205/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [0227-basic-calculator-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/Prathamesh250205/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -270,6 +272,7 @@
 | [0066-plus-one](https://github.com/Prathamesh250205/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh250205/LeetCode/tree/master/0168-excel-sheet-column-title) |
+| [0227-basic-calculator-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0382-linked-list-random-node](https://github.com/Prathamesh250205/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Prathamesh250205/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
