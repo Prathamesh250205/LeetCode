@@ -353,6 +353,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Prathamesh250205/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prathamesh250205/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/Prathamesh250205/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
@@ -360,4 +361,9 @@
 | [0232-implement-queue-using-stacks](https://github.com/Prathamesh250205/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/0622-design-circular-queue) |
+| [0933-number-of-recent-calls](https://github.com/Prathamesh250205/LeetCode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Prathamesh250205/LeetCode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
