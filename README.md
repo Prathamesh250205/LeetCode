@@ -81,6 +81,7 @@
 | [0328-odd-even-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/Prathamesh250205/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0622-design-circular-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Prathamesh250205/LeetCode/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Prathamesh250205/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -132,6 +133,7 @@
 | [0169-majority-element](https://github.com/Prathamesh250205/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prathamesh250205/LeetCode/tree/master/0217-contains-duplicate) |
 | [0622-design-circular-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Prathamesh250205/LeetCode/tree/master/0641-design-circular-deque) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prathamesh250205/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -356,6 +358,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Prathamesh250205/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prathamesh250205/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Prathamesh250205/LeetCode/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Prathamesh250205/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
@@ -364,6 +367,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Prathamesh250205/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/0622-design-circular-queue) |
+| [0641-design-circular-deque](https://github.com/Prathamesh250205/LeetCode/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Prathamesh250205/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prathamesh250205/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
