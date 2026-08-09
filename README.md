@@ -156,6 +156,7 @@
 | [0641-design-circular-deque](https://github.com/Prathamesh250205/LeetCode/tree/master/0641-design-circular-deque) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
 | [1670-design-front-middle-back-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prathamesh250205/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -236,6 +237,7 @@
 | [0392-is-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Backtracking
@@ -292,6 +294,7 @@
 | [0382-linked-list-random-node](https://github.com/Prathamesh250205/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Prathamesh250205/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
@@ -325,6 +328,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
 ## Simulation
 |  |
@@ -342,10 +346,12 @@
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
 ## Binary Search Tree
 |  |
@@ -432,4 +438,8 @@
 | [0316-remove-duplicate-letters](https://github.com/Prathamesh250205/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Prathamesh250205/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/0496-next-greater-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
