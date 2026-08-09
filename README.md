@@ -102,6 +102,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Prathamesh250205/LeetCode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Prathamesh250205/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0394-decode-string) |
 ## Stack
@@ -291,6 +292,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh250205/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/Prathamesh250205/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/Prathamesh250205/LeetCode/tree/master/0231-power-of-two) |
 | [0382-linked-list-random-node](https://github.com/Prathamesh250205/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Prathamesh250205/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
@@ -316,6 +318,7 @@
 | [0029-divide-two-integers](https://github.com/Prathamesh250205/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Prathamesh250205/LeetCode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Prathamesh250205/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Matrix
