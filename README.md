@@ -107,6 +107,7 @@
 | [0234-palindrome-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Prathamesh250205/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Prathamesh250205/LeetCode/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0394-decode-string) |
 ## Stack
 |  |
@@ -299,6 +300,7 @@
 | [0231-power-of-two](https://github.com/Prathamesh250205/LeetCode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/Prathamesh250205/LeetCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Prathamesh250205/LeetCode/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/Prathamesh250205/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Prathamesh250205/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
@@ -325,6 +327,7 @@
 | [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Prathamesh250205/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Prathamesh250205/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Prathamesh250205/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Matrix
