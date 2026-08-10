@@ -22,6 +22,7 @@
 | [0389-find-the-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Prathamesh250205/LeetCode/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Prathamesh250205/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -178,6 +179,7 @@
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
 | [1670-design-front-middle-back-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prathamesh250205/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Prathamesh250205/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Prathamesh250205/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -299,6 +301,7 @@
 | [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
+| [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Prathamesh250205/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
@@ -320,6 +323,7 @@
 | [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
+| [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Prathamesh250205/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -468,6 +472,7 @@
 | [0919-complete-binary-tree-inserter](https://github.com/Prathamesh250205/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
 | [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
@@ -503,6 +508,7 @@
 | [0919-complete-binary-tree-inserter](https://github.com/Prathamesh250205/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0933-number-of-recent-calls](https://github.com/Prathamesh250205/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/1670-design-front-middle-back-queue) |
+| [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
 ## Queue
 |  |
 | ------- |
