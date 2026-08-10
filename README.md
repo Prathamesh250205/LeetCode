@@ -303,6 +303,7 @@
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Prathamesh250205/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2236-root-equals-sum-of-children](https://github.com/Prathamesh250205/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -349,6 +350,7 @@
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Prathamesh250205/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2236-root-equals-sum-of-children](https://github.com/Prathamesh250205/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Math
 |  |
