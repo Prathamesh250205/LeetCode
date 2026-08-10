@@ -295,6 +295,7 @@
 | [0894-all-possible-full-binary-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [0919-complete-binary-tree-inserter](https://github.com/Prathamesh250205/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -313,6 +314,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
@@ -334,6 +336,7 @@
 | [0894-all-possible-full-binary-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [0919-complete-binary-tree-inserter](https://github.com/Prathamesh250205/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0938-range-sum-of-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Math
@@ -456,6 +459,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0112-path-sum) |
 | [0919-complete-binary-tree-inserter](https://github.com/Prathamesh250205/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
+| [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
