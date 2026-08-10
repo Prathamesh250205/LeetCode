@@ -139,6 +139,7 @@
 | [0402-remove-k-digits](https://github.com/Prathamesh250205/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prathamesh250205/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Array
@@ -290,6 +291,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0894-all-possible-full-binary-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 ## Depth-First Search
@@ -306,6 +308,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
