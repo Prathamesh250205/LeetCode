@@ -123,6 +123,7 @@
 | [0342-power-of-four](https://github.com/Prathamesh250205/LeetCode/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/Prathamesh250205/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0509-fibonacci-number) |
 | [0894-all-possible-full-binary-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1922-count-good-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/1922-count-good-numbers) |
@@ -185,6 +186,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Prathamesh250205/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathamesh250205/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0486-predict-the-winner](https://github.com/Prathamesh250205/LeetCode/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Prathamesh250205/LeetCode/tree/master/0641-design-circular-deque) |
@@ -288,6 +290,7 @@
 | [0064-minimum-path-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/Prathamesh250205/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
@@ -400,6 +403,7 @@
 | [0382-linked-list-random-node](https://github.com/Prathamesh250205/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0390-elimination-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Prathamesh250205/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0486-predict-the-winner](https://github.com/Prathamesh250205/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
@@ -446,6 +450,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Prathamesh250205/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
@@ -468,12 +473,14 @@
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Prathamesh250205/LeetCode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Prathamesh250205/LeetCode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Prathamesh250205/LeetCode/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Prathamesh250205/LeetCode/tree/master/1510-stone-game-iv) |
