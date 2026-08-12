@@ -300,6 +300,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Prathamesh250205/LeetCode/tree/master/0486-predict-the-winner) |
@@ -327,6 +328,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -378,6 +380,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
@@ -409,6 +412,7 @@
 | [0060-permutation-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Prathamesh250205/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh250205/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0224-basic-calculator](https://github.com/Prathamesh250205/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -510,6 +514,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0938-range-sum-of-bst) |
