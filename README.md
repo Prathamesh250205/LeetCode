@@ -133,6 +133,7 @@
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
+| [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Prathamesh250205/LeetCode/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
@@ -417,6 +418,7 @@
 | [1510-stone-game-iv](https://github.com/Prathamesh250205/LeetCode/tree/master/1510-stone-game-iv) |
 | [1922-count-good-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/1922-count-good-numbers) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
+| [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Prathamesh250205/LeetCode/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
