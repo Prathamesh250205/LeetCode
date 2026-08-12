@@ -125,6 +125,7 @@
 | [0394-decode-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Prathamesh250205/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Prathamesh250205/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0894-all-possible-full-binary-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [1922-count-good-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/1922-count-good-numbers) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -405,6 +406,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Prathamesh250205/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0486-predict-the-winner](https://github.com/Prathamesh250205/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Prathamesh250205/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
@@ -439,6 +441,7 @@
 | [0342-power-of-four](https://github.com/Prathamesh250205/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Prathamesh250205/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0779-k-th-symbol-in-grammar](https://github.com/Prathamesh250205/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
