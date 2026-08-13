@@ -245,6 +245,7 @@
 | [0191-number-of-1-bits](https://github.com/Prathamesh250205/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0654-maximum-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Two Pointers
@@ -356,6 +357,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0654-maximum-binary-tree) |
