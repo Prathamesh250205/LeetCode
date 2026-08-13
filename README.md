@@ -68,6 +68,7 @@
 | [0409-longest-palindrome](https://github.com/Prathamesh250205/LeetCode/tree/master/0409-longest-palindrome) |
 | [0770-basic-calculator-iv](https://github.com/Prathamesh250205/LeetCode/tree/master/0770-basic-calculator-iv) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Prathamesh250205/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamesh250205/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
@@ -210,6 +211,7 @@
 | [2049-count-nodes-with-the-highest-score](https://github.com/Prathamesh250205/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Prathamesh250205/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamesh250205/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathamesh250205/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Prathamesh250205/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -653,4 +655,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamesh250205/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamesh250205/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
