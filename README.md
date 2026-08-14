@@ -315,6 +315,7 @@
 | [0022-generate-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Prathamesh250205/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -438,6 +439,7 @@
 | [0043-multiply-strings](https://github.com/Prathamesh250205/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Prathamesh250205/LeetCode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Prathamesh250205/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Prathamesh250205/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -690,4 +692,8 @@
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0654-maximum-binary-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Prathamesh250205/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
