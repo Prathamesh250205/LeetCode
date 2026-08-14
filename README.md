@@ -199,6 +199,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Prathamesh250205/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Prathamesh250205/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -323,6 +324,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Prathamesh250205/LeetCode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0392-is-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/Prathamesh250205/LeetCode/tree/master/0486-predict-the-winner) |
