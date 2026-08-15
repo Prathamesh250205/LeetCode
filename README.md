@@ -277,6 +277,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1382-balance-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -313,6 +314,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Prathamesh250205/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Prathamesh250205/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Prathamesh250205/LeetCode/tree/master/0409-longest-palindrome) |
+| [1382-balance-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
@@ -409,6 +411,7 @@
 | [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Prathamesh250205/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2236-root-equals-sum-of-children](https://github.com/Prathamesh250205/LeetCode/tree/master/2236-root-equals-sum-of-children) |
@@ -434,6 +437,7 @@
 | [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Prathamesh250205/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -466,6 +470,7 @@
 | [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Prathamesh250205/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2236-root-equals-sum-of-children](https://github.com/Prathamesh250205/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
@@ -600,6 +605,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0938-range-sum-of-bst) |
+| [1382-balance-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
