@@ -228,6 +228,7 @@
 | [0486-predict-the-winner](https://github.com/Prathamesh250205/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Prathamesh250205/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/Prathamesh250205/LeetCode/tree/master/0506-relative-ranks) |
 | [0622-design-circular-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Prathamesh250205/LeetCode/tree/master/0641-design-circular-deque) |
 | [0654-maximum-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -348,6 +349,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathamesh250205/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/Prathamesh250205/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Prathamesh250205/LeetCode/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0912-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -538,6 +540,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Prathamesh250205/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathamesh250205/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Prathamesh250205/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/Prathamesh250205/LeetCode/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
