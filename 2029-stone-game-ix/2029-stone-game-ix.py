@@ -1,0 +1,8 @@
+class Solution(object):
+    def stoneGameIX(self, stones):
+        cnt = [0, 0, 0]
+        for s in stones:
+            cnt[s % 3] += 1
+        if cnt[0] % 2 == 0:
+            return cnt[1] > 0 and cnt[2] > 0
+        return cnt[1] > cnt[2] + 2 or cnt[2] > cnt[1] + 2
