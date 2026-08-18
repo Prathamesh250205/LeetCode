@@ -40,6 +40,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prathamesh250205/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Prathamesh250205/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Prathamesh250205/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/3731-find-missing-elements) |
 ## String
@@ -267,6 +268,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathamesh250205/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Prathamesh250205/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Prathamesh250205/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/Prathamesh250205/LeetCode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prathamesh250205/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
