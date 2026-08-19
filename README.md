@@ -73,6 +73,7 @@
 | [0093-restore-ip-addresses](https://github.com/Prathamesh250205/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Prathamesh250205/LeetCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/Prathamesh250205/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh250205/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0179-largest-number) |
@@ -455,6 +456,7 @@
 | [0118-pascals-triangle](https://github.com/Prathamesh250205/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Prathamesh250205/LeetCode/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/Prathamesh250205/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/Prathamesh250205/LeetCode/tree/master/0338-counting-bits) |
@@ -490,6 +492,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/Prathamesh250205/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Tree
 |  |
 | ------- |
