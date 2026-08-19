@@ -495,6 +495,7 @@
 | [0126-word-ladder-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Prathamesh250205/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0306-additive-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0306-additive-number) |
+| [0401-binary-watch](https://github.com/Prathamesh250205/LeetCode/tree/master/0401-binary-watch) |
 ## Tree
 |  |
 | ------- |
@@ -690,6 +691,7 @@
 | [0338-counting-bits](https://github.com/Prathamesh250205/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Prathamesh250205/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/Prathamesh250205/LeetCode/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Prathamesh250205/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Prathamesh250205/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/Prathamesh250205/LeetCode/tree/master/1386-cinema-seat-allocation) |
