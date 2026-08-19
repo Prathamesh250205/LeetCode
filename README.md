@@ -228,6 +228,7 @@
 | [0053-maximum-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Prathamesh250205/LeetCode/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/Prathamesh250205/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Prathamesh250205/LeetCode/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -477,6 +478,7 @@
 | [0051-n-queens](https://github.com/Prathamesh250205/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/Prathamesh250205/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Prathamesh250205/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Prathamesh250205/LeetCode/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0113-path-sum-ii) |
@@ -663,6 +665,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/Prathamesh250205/LeetCode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Prathamesh250205/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Prathamesh250205/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Prathamesh250205/LeetCode/tree/master/0191-number-of-1-bits) |
