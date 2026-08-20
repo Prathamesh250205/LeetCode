@@ -479,6 +479,7 @@
 | [0264-ugly-number-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Prathamesh250205/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Prathamesh250205/LeetCode/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/Prathamesh250205/LeetCode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Prathamesh250205/LeetCode/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Prathamesh250205/LeetCode/tree/master/0486-predict-the-winner) |
@@ -644,6 +645,7 @@
 | [0268-missing-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Prathamesh250205/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prathamesh250205/LeetCode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Prathamesh250205/LeetCode/tree/master/0343-integer-break) |
 | [0372-super-pow](https://github.com/Prathamesh250205/LeetCode/tree/master/0372-super-pow) |
 | [0382-linked-list-random-node](https://github.com/Prathamesh250205/LeetCode/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0390-elimination-game) |
