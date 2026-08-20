@@ -13,6 +13,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0139-word-break](https://github.com/Prathamesh250205/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Prathamesh250205/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prathamesh250205/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -76,6 +77,7 @@
 | [0125-valid-palindrome](https://github.com/Prathamesh250205/LeetCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Prathamesh250205/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Prathamesh250205/LeetCode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh250205/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0179-largest-number) |
@@ -249,6 +251,7 @@
 | [0120-triangle](https://github.com/Prathamesh250205/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathamesh250205/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Prathamesh250205/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Prathamesh250205/LeetCode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Prathamesh250205/LeetCode/tree/master/0169-majority-element) |
@@ -468,6 +471,7 @@
 | [0120-triangle](https://github.com/Prathamesh250205/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathamesh250205/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Prathamesh250205/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0139-word-break](https://github.com/Prathamesh250205/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/Prathamesh250205/LeetCode/tree/master/0338-counting-bits) |
@@ -895,6 +899,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Prathamesh250205/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Prathamesh250205/LeetCode/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0509-fibonacci-number) |
 | [0894-all-possible-full-binary-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
@@ -971,6 +976,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Prathamesh250205/LeetCode/tree/master/0139-word-break) |
 | [0692-top-k-frequent-words](https://github.com/Prathamesh250205/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Prathamesh250205/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 ## Iterator
@@ -985,4 +991,8 @@
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0126-word-ladder-ii) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Prathamesh250205/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
