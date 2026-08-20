@@ -70,6 +70,7 @@
 | [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Prathamesh250205/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Prathamesh250205/LeetCode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Prathamesh250205/LeetCode/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Prathamesh250205/LeetCode/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/Prathamesh250205/LeetCode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0126-word-ladder-ii) |
@@ -456,6 +457,7 @@
 | [0064-minimum-path-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Prathamesh250205/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Prathamesh250205/LeetCode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Prathamesh250205/LeetCode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0118-pascals-triangle](https://github.com/Prathamesh250205/LeetCode/tree/master/0118-pascals-triangle) |
