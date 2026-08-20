@@ -452,6 +452,7 @@
 | [0053-maximum-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Prathamesh250205/LeetCode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Prathamesh250205/LeetCode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Prathamesh250205/LeetCode/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0096-unique-binary-search-trees) |
@@ -615,6 +616,7 @@
 | [0062-unique-paths](https://github.com/Prathamesh250205/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Prathamesh250205/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Prathamesh250205/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Prathamesh250205/LeetCode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh250205/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -883,6 +885,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Prathamesh250205/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0509-fibonacci-number) |
 | [0894-all-possible-full-binary-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
