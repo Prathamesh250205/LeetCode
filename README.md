@@ -308,6 +308,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathamesh250205/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prathamesh250205/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Prathamesh250205/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prathamesh250205/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -330,6 +331,7 @@
 | [0611-valid-triangle-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Prathamesh250205/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prathamesh250205/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -666,6 +668,7 @@
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2029-stone-game-ix](https://github.com/Prathamesh250205/LeetCode/tree/master/2029-stone-game-ix) |
 | [2550-count-collisions-of-monkeys-on-a-polygon](https://github.com/Prathamesh250205/LeetCode/tree/master/2550-count-collisions-of-monkeys-on-a-polygon) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prathamesh250205/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Heap (Priority Queue)
@@ -719,6 +722,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/Prathamesh250205/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
 | [1386-cinema-seat-allocation](https://github.com/Prathamesh250205/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1763-longest-nice-substring](https://github.com/Prathamesh250205/LeetCode/tree/master/1763-longest-nice-substring) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prathamesh250205/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/Prathamesh250205/LeetCode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prathamesh250205/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -956,6 +960,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Prathamesh250205/LeetCode/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prathamesh250205/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Euler's Totient Function
 |  |
 | ------- |
@@ -1012,4 +1017,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Prathamesh250205/LeetCode/tree/master/0322-coin-change) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prathamesh250205/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
