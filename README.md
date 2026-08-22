@@ -20,6 +20,7 @@
 | [0139-word-break](https://github.com/Prathamesh250205/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Prathamesh250205/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Prathamesh250205/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prathamesh250205/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Prathamesh250205/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Prathamesh250205/LeetCode/tree/master/0169-majority-element) |
@@ -149,6 +150,7 @@
 | [0141-linked-list-cycle](https://github.com/Prathamesh250205/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Prathamesh250205/LeetCode/tree/master/0146-lru-cache) |
 | [0147-insertion-sort-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prathamesh250205/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -885,6 +887,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Prathamesh250205/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Prathamesh250205/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Prathamesh250205/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Prathamesh250205/LeetCode/tree/master/0225-implement-stack-using-queues) |
@@ -925,6 +928,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Prathamesh250205/LeetCode/tree/master/0146-lru-cache) |
 | [1670-design-front-middle-back-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Stack
 |  |
