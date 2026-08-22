@@ -671,6 +671,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prathamesh250205/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prathamesh250205/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
