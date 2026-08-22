@@ -14,6 +14,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Prathamesh250205/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Prathamesh250205/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -253,6 +254,7 @@
 | [0119-pascals-triangle-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Prathamesh250205/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathamesh250205/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Prathamesh250205/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -1025,4 +1027,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prathamesh250205/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
