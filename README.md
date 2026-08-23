@@ -99,6 +99,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Prathamesh250205/LeetCode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Prathamesh250205/LeetCode/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0306-additive-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/Prathamesh250205/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0344-reverse-string) |
@@ -571,6 +572,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Prathamesh250205/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -610,6 +612,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh250205/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -650,6 +653,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Prathamesh250205/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Prathamesh250205/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -878,6 +882,7 @@
 | [0126-word-ladder-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0126-word-ladder-ii) |
 | [0133-clone-graph](https://github.com/Prathamesh250205/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh250205/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Prathamesh250205/LeetCode/tree/master/0322-coin-change) |
 | [0919-complete-binary-tree-inserter](https://github.com/Prathamesh250205/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -918,6 +923,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Prathamesh250205/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Prathamesh250205/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prathamesh250205/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Prathamesh250205/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prathamesh250205/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0622-design-circular-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/0622-design-circular-queue) |
