@@ -570,6 +570,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh250205/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Prathamesh250205/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -608,6 +609,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh250205/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -647,6 +649,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh250205/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Prathamesh250205/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Prathamesh250205/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -841,6 +844,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/Prathamesh250205/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Prathamesh250205/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
@@ -1082,4 +1086,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
