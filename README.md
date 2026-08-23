@@ -580,6 +580,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0427-construct-quad-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -620,6 +621,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0938-range-sum-of-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0938-range-sum-of-bst) |
@@ -662,6 +664,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Prathamesh250205/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -858,6 +861,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Prathamesh250205/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Prathamesh250205/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0938-range-sum-of-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
