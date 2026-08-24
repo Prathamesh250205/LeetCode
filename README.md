@@ -110,6 +110,7 @@
 | [0392-is-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Prathamesh250205/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0399-evaluate-division](https://github.com/Prathamesh250205/LeetCode/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/Prathamesh250205/LeetCode/tree/master/0402-remove-k-digits) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Prathamesh250205/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/Prathamesh250205/LeetCode/tree/master/0409-longest-palindrome) |
@@ -293,6 +294,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathamesh250205/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prathamesh250205/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0396-rotate-function](https://github.com/Prathamesh250205/LeetCode/tree/master/0396-rotate-function) |
+| [0399-evaluate-division](https://github.com/Prathamesh250205/LeetCode/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0414-third-maximum-number) |
 | [0427-construct-quad-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -624,6 +626,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/Prathamesh250205/LeetCode/tree/master/0399-evaluate-division) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -905,6 +908,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Prathamesh250205/LeetCode/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/Prathamesh250205/LeetCode/tree/master/0399-evaluate-division) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0919-complete-binary-tree-inserter](https://github.com/Prathamesh250205/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
@@ -916,6 +920,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/Prathamesh250205/LeetCode/tree/master/0133-clone-graph) |
 | [0310-minimum-height-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0399-evaluate-division](https://github.com/Prathamesh250205/LeetCode/tree/master/0399-evaluate-division) |
 | [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Bracket Sequences
 |  |
@@ -1116,6 +1121,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0399-evaluate-division](https://github.com/Prathamesh250205/LeetCode/tree/master/0399-evaluate-division) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -1128,4 +1134,16 @@
 |  |
 | ------- |
 | [0310-minimum-height-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0310-minimum-height-trees) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Prathamesh250205/LeetCode/tree/master/0399-evaluate-division) |
+## Bellman–Ford Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Prathamesh250205/LeetCode/tree/master/0399-evaluate-division) |
+## Floyd–Warshall Algorithm
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/Prathamesh250205/LeetCode/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
