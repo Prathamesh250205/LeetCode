@@ -52,6 +52,7 @@
 | [0767-reorganize-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/Prathamesh250205/LeetCode/tree/master/0770-basic-calculator-iv) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0997-find-the-town-judge](https://github.com/Prathamesh250205/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1386-cinema-seat-allocation](https://github.com/Prathamesh250205/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1763-longest-nice-substring](https://github.com/Prathamesh250205/LeetCode/tree/master/1763-longest-nice-substring) |
 | [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
@@ -318,6 +319,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0912-sort-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0997-find-the-town-judge](https://github.com/Prathamesh250205/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1386-cinema-seat-allocation](https://github.com/Prathamesh250205/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -931,6 +933,7 @@
 | [0547-number-of-provinces](https://github.com/Prathamesh250205/LeetCode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Prathamesh250205/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/Prathamesh250205/LeetCode/tree/master/0886-possible-bipartition) |
+| [0997-find-the-town-judge](https://github.com/Prathamesh250205/LeetCode/tree/master/0997-find-the-town-judge) |
 | [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Bracket Sequences
 |  |
