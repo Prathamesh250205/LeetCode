@@ -563,6 +563,7 @@
 | [0306-additive-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0306-additive-number) |
 | [0401-binary-watch](https://github.com/Prathamesh250205/LeetCode/tree/master/0401-binary-watch) |
 | [0797-all-paths-from-source-to-target](https://github.com/Prathamesh250205/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/Prathamesh250205/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
 ## Tree
 |  |
 | ------- |
@@ -939,6 +940,7 @@
 | [0919-complete-binary-tree-inserter](https://github.com/Prathamesh250205/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0934-shortest-bridge](https://github.com/Prathamesh250205/LeetCode/tree/master/0934-shortest-bridge) |
 | [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/Prathamesh250205/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Prathamesh250205/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Prathamesh250205/LeetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
