@@ -349,6 +349,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prathamesh250205/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Prathamesh250205/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -396,6 +397,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1763-longest-nice-substring](https://github.com/Prathamesh250205/LeetCode/tree/master/1763-longest-nice-substring) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Prathamesh250205/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -778,6 +780,7 @@
 | [0493-reverse-pairs](https://github.com/Prathamesh250205/LeetCode/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0912-sort-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Prathamesh250205/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## String Matching
 |  |
 | ------- |
@@ -1029,6 +1032,7 @@
 | [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1872-stone-game-viii](https://github.com/Prathamesh250205/LeetCode/tree/master/1872-stone-game-viii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Prathamesh250205/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Memoization
 |  |
 | ------- |
@@ -1070,6 +1074,7 @@
 | [0493-reverse-pairs](https://github.com/Prathamesh250205/LeetCode/tree/master/0493-reverse-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamesh250205/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Prathamesh250205/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1096,6 +1101,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Prathamesh250205/LeetCode/tree/master/0493-reverse-pairs) |
+| [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Prathamesh250205/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Treap
 |  |
 | ------- |
