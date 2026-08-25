@@ -319,6 +319,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/Prathamesh250205/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0909-snakes-and-ladders](https://github.com/Prathamesh250205/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0912-sort-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0997-find-the-town-judge](https://github.com/Prathamesh250205/LeetCode/tree/master/0997-find-the-town-judge) |
@@ -822,6 +823,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathamesh250205/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0427-construct-quad-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0427-construct-quad-tree) |
+| [0909-snakes-and-ladders](https://github.com/Prathamesh250205/LeetCode/tree/master/0909-snakes-and-ladders) |
 ## Game Theory
 |  |
 | ------- |
@@ -930,6 +932,7 @@
 | [0547-number-of-provinces](https://github.com/Prathamesh250205/LeetCode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/Prathamesh250205/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/Prathamesh250205/LeetCode/tree/master/0886-possible-bipartition) |
+| [0909-snakes-and-ladders](https://github.com/Prathamesh250205/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0919-complete-binary-tree-inserter](https://github.com/Prathamesh250205/LeetCode/tree/master/0919-complete-binary-tree-inserter) |
 | [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Prathamesh250205/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
