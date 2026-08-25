@@ -324,6 +324,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0934-shortest-bridge](https://github.com/Prathamesh250205/LeetCode/tree/master/0934-shortest-bridge) |
 | [0997-find-the-town-judge](https://github.com/Prathamesh250205/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1020-number-of-enclaves](https://github.com/Prathamesh250205/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1386-cinema-seat-allocation](https://github.com/Prathamesh250205/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -649,6 +650,7 @@
 | [0934-shortest-bridge](https://github.com/Prathamesh250205/LeetCode/tree/master/0934-shortest-bridge) |
 | [0938-range-sum-of-bst](https://github.com/Prathamesh250205/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Prathamesh250205/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Prathamesh250205/LeetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
@@ -828,6 +830,7 @@
 | [0427-construct-quad-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0909-snakes-and-ladders](https://github.com/Prathamesh250205/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0934-shortest-bridge](https://github.com/Prathamesh250205/LeetCode/tree/master/0934-shortest-bridge) |
+| [1020-number-of-enclaves](https://github.com/Prathamesh250205/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Game Theory
 |  |
 | ------- |
@@ -941,6 +944,7 @@
 | [0934-shortest-bridge](https://github.com/Prathamesh250205/LeetCode/tree/master/0934-shortest-bridge) |
 | [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/Prathamesh250205/LeetCode/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [1020-number-of-enclaves](https://github.com/Prathamesh250205/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Prathamesh250205/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Prathamesh250205/LeetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
@@ -1166,6 +1170,7 @@
 | [0399-evaluate-division](https://github.com/Prathamesh250205/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Prathamesh250205/LeetCode/tree/master/0547-number-of-provinces) |
 | [0886-possible-bipartition](https://github.com/Prathamesh250205/LeetCode/tree/master/0886-possible-bipartition) |
+| [1020-number-of-enclaves](https://github.com/Prathamesh250205/LeetCode/tree/master/1020-number-of-enclaves) |
 ## Binary Lifting
 |  |
 | ------- |
