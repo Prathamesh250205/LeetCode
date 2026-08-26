@@ -127,6 +127,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Prathamesh250205/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/Prathamesh250205/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0692-top-k-frequent-words](https://github.com/Prathamesh250205/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -811,6 +812,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Prathamesh250205/LeetCode/tree/master/0459-repeated-substring-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1233,4 +1235,12 @@
 |  |
 | ------- |
 | [0886-possible-bipartition](https://github.com/Prathamesh250205/LeetCode/tree/master/0886-possible-bipartition) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Prathamesh250205/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Prathamesh250205/LeetCode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
