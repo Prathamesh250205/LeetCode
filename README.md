@@ -87,6 +87,7 @@
 | [0049-group-anagrams](https://github.com/Prathamesh250205/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Prathamesh250205/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Prathamesh250205/LeetCode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Prathamesh250205/LeetCode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Prathamesh250205/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/Prathamesh250205/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Prathamesh250205/LeetCode/tree/master/0091-decode-ways) |
@@ -225,6 +226,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Prathamesh250205/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/Prathamesh250205/LeetCode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
