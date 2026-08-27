@@ -633,6 +633,7 @@
 | [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1361-validate-binary-tree-nodes](https://github.com/Prathamesh250205/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
@@ -684,6 +685,7 @@
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Prathamesh250205/LeetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prathamesh250205/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1361-validate-binary-tree-nodes](https://github.com/Prathamesh250205/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
@@ -731,6 +733,7 @@
 | [0965-univalued-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0965-univalued-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
+| [1361-validate-binary-tree-nodes](https://github.com/Prathamesh250205/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1367-linked-list-in-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1367-linked-list-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Prathamesh250205/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
@@ -995,6 +998,7 @@
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Prathamesh250205/LeetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1302-deepest-leaves-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1302-deepest-leaves-sum) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prathamesh250205/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1361-validate-binary-tree-nodes](https://github.com/Prathamesh250205/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
 | [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -1016,6 +1020,7 @@
 | [1129-shortest-path-with-alternating-colors](https://github.com/Prathamesh250205/LeetCode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Prathamesh250205/LeetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prathamesh250205/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1361-validate-binary-tree-nodes](https://github.com/Prathamesh250205/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Bracket Sequences
 |  |
@@ -1230,6 +1235,7 @@
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prathamesh250205/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Prathamesh250205/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prathamesh250205/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1361-validate-binary-tree-nodes](https://github.com/Prathamesh250205/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 ## Binary Lifting
 |  |
 | ------- |
