@@ -1024,6 +1024,7 @@
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prathamesh250205/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Prathamesh250205/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1514-path-with-maximum-probability](https://github.com/Prathamesh250205/LeetCode/tree/master/1514-path-with-maximum-probability) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Prathamesh250205/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Bracket Sequences
 |  |
@@ -1272,6 +1273,7 @@
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Prathamesh250205/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Prathamesh250205/LeetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Prathamesh250205/LeetCode/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 ## Graph Coloring
 |  |
 | ------- |
