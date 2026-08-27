@@ -66,6 +66,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prathamesh250205/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prathamesh250205/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prathamesh250205/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -141,6 +142,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prathamesh250205/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prathamesh250205/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prathamesh250205/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -472,6 +474,7 @@
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2029-stone-game-ix](https://github.com/Prathamesh250205/LeetCode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prathamesh250205/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -891,6 +894,7 @@
 | [0692-top-k-frequent-words](https://github.com/Prathamesh250205/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0767-reorganize-string) |
 | [2029-stone-game-ix](https://github.com/Prathamesh250205/LeetCode/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prathamesh250205/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Minimax
 |  |
@@ -1001,6 +1005,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/Prathamesh250205/LeetCode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prathamesh250205/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Reservoir Sampling
 |  |
 | ------- |
