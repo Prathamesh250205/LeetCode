@@ -552,6 +552,7 @@
 | [0486-predict-the-winner](https://github.com/Prathamesh250205/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prathamesh250205/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
@@ -669,6 +670,7 @@
 | [0684-redundant-connection](https://github.com/Prathamesh250205/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Prathamesh250205/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Prathamesh250205/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prathamesh250205/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Prathamesh250205/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Prathamesh250205/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Prathamesh250205/LeetCode/tree/master/0886-possible-bipartition) |
@@ -806,6 +808,7 @@
 | [0743-network-delay-time](https://github.com/Prathamesh250205/LeetCode/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Prathamesh250205/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prathamesh250205/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -973,6 +976,7 @@
 | [0684-redundant-connection](https://github.com/Prathamesh250205/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Prathamesh250205/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Prathamesh250205/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prathamesh250205/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Prathamesh250205/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Prathamesh250205/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Prathamesh250205/LeetCode/tree/master/0886-possible-bipartition) |
@@ -999,6 +1003,7 @@
 | [0684-redundant-connection](https://github.com/Prathamesh250205/LeetCode/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/Prathamesh250205/LeetCode/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Prathamesh250205/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prathamesh250205/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Prathamesh250205/LeetCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Prathamesh250205/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Prathamesh250205/LeetCode/tree/master/0886-possible-bipartition) |
@@ -1235,6 +1240,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/Prathamesh250205/LeetCode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Prathamesh250205/LeetCode/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prathamesh250205/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
