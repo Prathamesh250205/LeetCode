@@ -348,6 +348,7 @@
 | [1200-minimum-absolute-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1386-cinema-seat-allocation](https://github.com/Prathamesh250205/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
+| [1514-path-with-maximum-probability](https://github.com/Prathamesh250205/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/Prathamesh250205/LeetCode/tree/master/1563-stone-game-v) |
 | [1670-design-front-middle-back-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prathamesh250205/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -816,6 +817,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/Prathamesh250205/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prathamesh250205/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0912-sort-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/Prathamesh250205/LeetCode/tree/master/1514-path-with-maximum-probability) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1021,6 +1023,7 @@
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Prathamesh250205/LeetCode/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Prathamesh250205/LeetCode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1361-validate-binary-tree-nodes](https://github.com/Prathamesh250205/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
+| [1514-path-with-maximum-probability](https://github.com/Prathamesh250205/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Bracket Sequences
 |  |
@@ -1255,6 +1258,7 @@
 | [0399-evaluate-division](https://github.com/Prathamesh250205/LeetCode/tree/master/0399-evaluate-division) |
 | [0743-network-delay-time](https://github.com/Prathamesh250205/LeetCode/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prathamesh250205/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1514-path-with-maximum-probability](https://github.com/Prathamesh250205/LeetCode/tree/master/1514-path-with-maximum-probability) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
@@ -1291,4 +1295,5 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Prathamesh250205/LeetCode/tree/master/0743-network-delay-time) |
+| [1514-path-with-maximum-probability](https://github.com/Prathamesh250205/LeetCode/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
