@@ -144,6 +144,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Prathamesh250205/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prathamesh250205/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Prathamesh250205/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -456,6 +457,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/Prathamesh250205/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0876-middle-of-the-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Prathamesh250205/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -1039,6 +1041,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/Prathamesh250205/LeetCode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prathamesh250205/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Prathamesh250205/LeetCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Reservoir Sampling
 |  |
 | ------- |
