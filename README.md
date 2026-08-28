@@ -345,6 +345,7 @@
 | [0934-shortest-bridge](https://github.com/Prathamesh250205/LeetCode/tree/master/0934-shortest-bridge) |
 | [0997-find-the-town-judge](https://github.com/Prathamesh250205/LeetCode/tree/master/0997-find-the-town-judge) |
 | [1020-number-of-enclaves](https://github.com/Prathamesh250205/LeetCode/tree/master/1020-number-of-enclaves) |
+| [1051-height-checker](https://github.com/Prathamesh250205/LeetCode/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prathamesh250205/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/1200-minimum-absolute-difference) |
@@ -519,6 +520,7 @@
 | [0767-reorganize-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0767-reorganize-string) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Prathamesh250205/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Prathamesh250205/LeetCode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1199,6 +1201,7 @@
 | [0274-h-index](https://github.com/Prathamesh250205/LeetCode/tree/master/0274-h-index) |
 | [0561-array-partition](https://github.com/Prathamesh250205/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0912-sort-an-array) |
+| [1051-height-checker](https://github.com/Prathamesh250205/LeetCode/tree/master/1051-height-checker) |
 ## Trie
 |  |
 | ------- |
@@ -1304,4 +1307,8 @@
 | ------- |
 | [0743-network-delay-time](https://github.com/Prathamesh250205/LeetCode/tree/master/0743-network-delay-time) |
 | [1514-path-with-maximum-probability](https://github.com/Prathamesh250205/LeetCode/tree/master/1514-path-with-maximum-probability) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Prathamesh250205/LeetCode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
