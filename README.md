@@ -56,6 +56,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Prathamesh250205/LeetCode/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Prathamesh250205/LeetCode/tree/master/0997-find-the-town-judge) |
+| [1122-relative-sort-array](https://github.com/Prathamesh250205/LeetCode/tree/master/1122-relative-sort-array) |
 | [1386-cinema-seat-allocation](https://github.com/Prathamesh250205/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1763-longest-nice-substring](https://github.com/Prathamesh250205/LeetCode/tree/master/1763-longest-nice-substring) |
 | [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
@@ -347,6 +348,7 @@
 | [1020-number-of-enclaves](https://github.com/Prathamesh250205/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1051-height-checker](https://github.com/Prathamesh250205/LeetCode/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prathamesh250205/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1122-relative-sort-array](https://github.com/Prathamesh250205/LeetCode/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1386-cinema-seat-allocation](https://github.com/Prathamesh250205/LeetCode/tree/master/1386-cinema-seat-allocation) |
@@ -521,6 +523,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/Prathamesh250205/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0912-sort-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Prathamesh250205/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Prathamesh250205/LeetCode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -1202,6 +1205,7 @@
 | [0561-array-partition](https://github.com/Prathamesh250205/LeetCode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/Prathamesh250205/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Prathamesh250205/LeetCode/tree/master/1122-relative-sort-array) |
 ## Trie
 |  |
 | ------- |
@@ -1311,4 +1315,9 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Prathamesh250205/LeetCode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Prathamesh250205/LeetCode/tree/master/1122-relative-sort-array) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Prathamesh250205/LeetCode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
