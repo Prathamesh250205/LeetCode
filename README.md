@@ -360,6 +360,7 @@
 | [1670-design-front-middle-back-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prathamesh250205/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Prathamesh250205/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1833-maximum-ice-cream-bars](https://github.com/Prathamesh250205/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1872-stone-game-viii](https://github.com/Prathamesh250205/LeetCode/tree/master/1872-stone-game-viii) |
 | [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
 | [2029-stone-game-ix](https://github.com/Prathamesh250205/LeetCode/tree/master/2029-stone-game-ix) |
@@ -480,6 +481,7 @@
 | [0767-reorganize-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0767-reorganize-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1386-cinema-seat-allocation](https://github.com/Prathamesh250205/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1833-maximum-ice-cream-bars](https://github.com/Prathamesh250205/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/Prathamesh250205/LeetCode/tree/master/1927-sum-game) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2029-stone-game-ix](https://github.com/Prathamesh250205/LeetCode/tree/master/2029-stone-game-ix) |
@@ -528,6 +530,7 @@
 | [1122-relative-sort-array](https://github.com/Prathamesh250205/LeetCode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prathamesh250205/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Prathamesh250205/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/3731-find-missing-elements) |
@@ -1210,6 +1213,7 @@
 | [1051-height-checker](https://github.com/Prathamesh250205/LeetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Prathamesh250205/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prathamesh250205/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Prathamesh250205/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 ## Trie
 |  |
 | ------- |
