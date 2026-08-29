@@ -131,6 +131,7 @@
 | [0415-add-strings](https://github.com/Prathamesh250205/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Prathamesh250205/LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Prathamesh250205/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Prathamesh250205/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
@@ -471,6 +472,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Prathamesh250205/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Prathamesh250205/LeetCode/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Prathamesh250205/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
