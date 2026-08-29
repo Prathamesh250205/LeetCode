@@ -313,6 +313,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Prathamesh250205/LeetCode/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/Prathamesh250205/LeetCode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Prathamesh250205/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Prathamesh250205/LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -461,6 +462,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prathamesh250205/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Prathamesh250205/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Prathamesh250205/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
