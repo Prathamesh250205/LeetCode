@@ -660,6 +660,7 @@
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0558-logical-or-of-two-binary-grids-represented-as-quad-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0558-logical-or-of-two-binary-grids-represented-as-quad-trees) |
+| [0572-subtree-of-another-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0654-maximum-binary-tree) |
@@ -705,6 +706,7 @@
 | [0399-evaluate-division](https://github.com/Prathamesh250205/LeetCode/tree/master/0399-evaluate-division) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/Prathamesh250205/LeetCode/tree/master/0547-number-of-provinces) |
+| [0572-subtree-of-another-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0684-redundant-connection](https://github.com/Prathamesh250205/LeetCode/tree/master/0684-redundant-connection) |
@@ -762,6 +764,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0654-maximum-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Prathamesh250205/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -870,6 +873,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Prathamesh250205/LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0572-subtree-of-another-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1358,4 +1362,8 @@
 | ------- |
 | [0455-assign-cookies](https://github.com/Prathamesh250205/LeetCode/tree/master/0455-assign-cookies) |
 | [1122-relative-sort-array](https://github.com/Prathamesh250205/LeetCode/tree/master/1122-relative-sort-array) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
