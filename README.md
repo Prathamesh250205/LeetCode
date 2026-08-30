@@ -372,6 +372,7 @@
 | [2029-stone-game-ix](https://github.com/Prathamesh250205/LeetCode/tree/master/2029-stone-game-ix) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Prathamesh250205/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Prathamesh250205/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Prathamesh250205/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Prathamesh250205/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -502,6 +503,7 @@
 | [1927-sum-game](https://github.com/Prathamesh250205/LeetCode/tree/master/1927-sum-game) |
 | [1969-minimum-non-zero-product-of-the-array-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/1969-minimum-non-zero-product-of-the-array-elements) |
 | [2029-stone-game-ix](https://github.com/Prathamesh250205/LeetCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Prathamesh250205/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prathamesh250205/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
