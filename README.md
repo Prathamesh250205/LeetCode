@@ -47,6 +47,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Prathamesh250205/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Prathamesh250205/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0621-task-scheduler](https://github.com/Prathamesh250205/LeetCode/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Prathamesh250205/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0692-top-k-frequent-words](https://github.com/Prathamesh250205/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -135,6 +136,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Prathamesh250205/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Prathamesh250205/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Prathamesh250205/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0692-top-k-frequent-words](https://github.com/Prathamesh250205/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0720-longest-word-in-dictionary](https://github.com/Prathamesh250205/LeetCode/tree/master/0720-longest-word-in-dictionary) |
@@ -1109,6 +1111,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/Prathamesh250205/LeetCode/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Prathamesh250205/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Prathamesh250205/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0622-design-circular-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Prathamesh250205/LeetCode/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Prathamesh250205/LeetCode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1369,6 +1372,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Prathamesh250205/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0572-subtree-of-another-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Rolling Hash
