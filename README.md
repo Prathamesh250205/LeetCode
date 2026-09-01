@@ -276,6 +276,7 @@
 | [0591-tag-validator](https://github.com/Prathamesh250205/LeetCode/tree/master/0591-tag-validator) |
 | [0654-maximum-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0735-asteroid-collision](https://github.com/Prathamesh250205/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Prathamesh250205/LeetCode/tree/master/0739-daily-temperatures) |
 | [0770-basic-calculator-iv](https://github.com/Prathamesh250205/LeetCode/tree/master/0770-basic-calculator-iv) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Prathamesh250205/LeetCode/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
@@ -366,6 +367,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0720-longest-word-in-dictionary](https://github.com/Prathamesh250205/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0735-asteroid-collision](https://github.com/Prathamesh250205/LeetCode/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/Prathamesh250205/LeetCode/tree/master/0739-daily-temperatures) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Prathamesh250205/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -1189,6 +1191,7 @@
 | [0496-next-greater-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0654-maximum-binary-tree) |
+| [0739-daily-temperatures](https://github.com/Prathamesh250205/LeetCode/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Prefix Sum
 |  |
