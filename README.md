@@ -69,6 +69,7 @@
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Prathamesh250205/LeetCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prathamesh250205/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prathamesh250205/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prathamesh250205/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Prathamesh250205/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3731-find-missing-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/3731-find-missing-elements) |
@@ -389,6 +390,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Prathamesh250205/LeetCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/Prathamesh250205/LeetCode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prathamesh250205/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prathamesh250205/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Prathamesh250205/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/3731-find-missing-elements) |
@@ -907,6 +909,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prathamesh250205/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/Prathamesh250205/LeetCode/tree/master/3566-partition-array-into-two-equal-product-subsets) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prathamesh250205/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Prathamesh250205/LeetCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Matrix
 |  |
@@ -923,6 +926,7 @@
 | [0934-shortest-bridge](https://github.com/Prathamesh250205/LeetCode/tree/master/0934-shortest-bridge) |
 | [1020-number-of-enclaves](https://github.com/Prathamesh250205/LeetCode/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prathamesh250205/LeetCode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prathamesh250205/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Game Theory
 |  |
 | ------- |
@@ -1054,6 +1058,7 @@
 | [1361-validate-binary-tree-nodes](https://github.com/Prathamesh250205/LeetCode/tree/master/1361-validate-binary-tree-nodes) |
 | [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
 | [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
+| [3568-minimum-moves-to-clean-the-classroom](https://github.com/Prathamesh250205/LeetCode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
 |  |
 | ------- |
