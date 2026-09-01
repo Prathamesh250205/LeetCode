@@ -121,6 +121,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Prathamesh250205/LeetCode/tree/master/0383-ransom-note) |
+| [0385-mini-parser](https://github.com/Prathamesh250205/LeetCode/tree/master/0385-mini-parser) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0392-is-subsequence) |
@@ -259,6 +260,7 @@
 | [0234-palindrome-linked-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Prathamesh250205/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0385-mini-parser](https://github.com/Prathamesh250205/LeetCode/tree/master/0385-mini-parser) |
 | [0394-decode-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Prathamesh250205/LeetCode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -714,6 +716,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0310-minimum-height-trees) |
+| [0385-mini-parser](https://github.com/Prathamesh250205/LeetCode/tree/master/0385-mini-parser) |
 | [0399-evaluate-division](https://github.com/Prathamesh250205/LeetCode/tree/master/0399-evaluate-division) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/Prathamesh250205/LeetCode/tree/master/0547-number-of-provinces) |
