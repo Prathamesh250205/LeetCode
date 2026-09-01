@@ -249,6 +249,7 @@
 | [0143-reorder-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Prathamesh250205/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Prathamesh250205/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Prathamesh250205/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/Prathamesh250205/LeetCode/tree/master/0224-basic-calculator) |
@@ -308,6 +309,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Prathamesh250205/LeetCode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Prathamesh250205/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Prathamesh250205/LeetCode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prathamesh250205/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -804,6 +806,7 @@
 | [0070-climbing-stairs](https://github.com/Prathamesh250205/LeetCode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/Prathamesh250205/LeetCode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Prathamesh250205/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Prathamesh250205/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh250205/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0202-happy-number) |
