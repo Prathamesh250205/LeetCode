@@ -302,6 +302,7 @@
 | [0049-group-anagrams](https://github.com/Prathamesh250205/LeetCode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Prathamesh250205/LeetCode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Prathamesh250205/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Prathamesh250205/LeetCode/tree/master/0066-plus-one) |
@@ -546,6 +547,7 @@
 | [0018-4sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Prathamesh250205/LeetCode/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Prathamesh250205/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Prathamesh250205/LeetCode/tree/master/0148-sort-list) |
@@ -1409,6 +1411,7 @@
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Prathamesh250205/LeetCode/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Prathamesh250205/LeetCode/tree/master/0455-assign-cookies) |
 | [1122-relative-sort-array](https://github.com/Prathamesh250205/LeetCode/tree/master/1122-relative-sort-array) |
 ## Hash Function
