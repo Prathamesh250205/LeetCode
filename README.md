@@ -349,6 +349,7 @@
 | [0414-third-maximum-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0414-third-maximum-number) |
 | [0427-construct-quad-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/Prathamesh250205/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/Prathamesh250205/LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Prathamesh250205/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Prathamesh250205/LeetCode/tree/master/0455-assign-cookies) |
@@ -434,6 +435,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Prathamesh250205/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathamesh250205/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0436-find-right-interval](https://github.com/Prathamesh250205/LeetCode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Prathamesh250205/LeetCode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Prathamesh250205/LeetCode/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -572,6 +574,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/Prathamesh250205/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/Prathamesh250205/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/Prathamesh250205/LeetCode/tree/master/0436-find-right-interval) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Prathamesh250205/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Prathamesh250205/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
