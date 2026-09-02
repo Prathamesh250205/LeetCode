@@ -47,6 +47,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Prathamesh250205/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Prathamesh250205/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0621-task-scheduler](https://github.com/Prathamesh250205/LeetCode/tree/master/0621-task-scheduler) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/Prathamesh250205/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -139,6 +140,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Prathamesh250205/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Prathamesh250205/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Prathamesh250205/LeetCode/tree/master/0535-encode-and-decode-tinyurl) |
 | [0539-minimum-time-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0591-tag-validator](https://github.com/Prathamesh250205/LeetCode/tree/master/0591-tag-validator) |
@@ -359,6 +361,7 @@
 | [0493-reverse-pairs](https://github.com/Prathamesh250205/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/Prathamesh250205/LeetCode/tree/master/0506-relative-ranks) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0539-minimum-time-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Prathamesh250205/LeetCode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -513,6 +516,7 @@
 | [0443-string-compression](https://github.com/Prathamesh250205/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Prathamesh250205/LeetCode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Prathamesh250205/LeetCode/tree/master/0475-heaters) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -584,6 +588,7 @@
 | [0455-assign-cookies](https://github.com/Prathamesh250205/LeetCode/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Prathamesh250205/LeetCode/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Prathamesh250205/LeetCode/tree/master/0506-relative-ranks) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0539-minimum-time-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Prathamesh250205/LeetCode/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
