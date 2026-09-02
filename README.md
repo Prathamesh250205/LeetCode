@@ -348,6 +348,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/Prathamesh250205/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0414-third-maximum-number) |
 | [0427-construct-quad-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0427-construct-quad-tree) |
+| [0435-non-overlapping-intervals](https://github.com/Prathamesh250205/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Prathamesh250205/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Prathamesh250205/LeetCode/tree/master/0455-assign-cookies) |
@@ -523,6 +524,7 @@
 | [0316-remove-duplicate-letters](https://github.com/Prathamesh250205/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Prathamesh250205/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Prathamesh250205/LeetCode/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/Prathamesh250205/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Prathamesh250205/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Prathamesh250205/LeetCode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Prathamesh250205/LeetCode/tree/master/0561-array-partition) |
@@ -569,6 +571,7 @@
 | [0389-find-the-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0389-find-the-difference) |
 | [0406-queue-reconstruction-by-height](https://github.com/Prathamesh250205/LeetCode/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/Prathamesh250205/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Prathamesh250205/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Prathamesh250205/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Prathamesh250205/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -626,6 +629,7 @@
 | [0343-integer-break](https://github.com/Prathamesh250205/LeetCode/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Prathamesh250205/LeetCode/tree/master/0396-rotate-function) |
+| [0435-non-overlapping-intervals](https://github.com/Prathamesh250205/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/Prathamesh250205/LeetCode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0516-longest-palindromic-subsequence) |
