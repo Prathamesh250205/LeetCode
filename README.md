@@ -354,6 +354,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Prathamesh250205/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Prathamesh250205/LeetCode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Prathamesh250205/LeetCode/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Prathamesh250205/LeetCode/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/Prathamesh250205/LeetCode/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Prathamesh250205/LeetCode/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/0496-next-greater-element-i) |
@@ -437,6 +438,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathamesh250205/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0436-find-right-interval](https://github.com/Prathamesh250205/LeetCode/tree/master/0436-find-right-interval) |
 | [0456-132-pattern](https://github.com/Prathamesh250205/LeetCode/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Prathamesh250205/LeetCode/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/Prathamesh250205/LeetCode/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -510,6 +512,7 @@
 | [0392-is-subsequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Prathamesh250205/LeetCode/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Prathamesh250205/LeetCode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Prathamesh250205/LeetCode/tree/master/0475-heaters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -579,6 +582,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Prathamesh250205/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Prathamesh250205/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Prathamesh250205/LeetCode/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/Prathamesh250205/LeetCode/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Prathamesh250205/LeetCode/tree/master/0506-relative-ranks) |
 | [0539-minimum-time-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Prathamesh250205/LeetCode/tree/master/0561-array-partition) |
