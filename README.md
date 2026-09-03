@@ -425,6 +425,7 @@
 | [3731-find-missing-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Prathamesh250205/LeetCode/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Binary Search
 |  |
@@ -900,6 +901,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Prathamesh250205/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prathamesh250205/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
