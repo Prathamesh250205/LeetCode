@@ -150,6 +150,7 @@
 | [0720-longest-word-in-dictionary](https://github.com/Prathamesh250205/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0767-reorganize-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0767-reorganize-string) |
 | [0770-basic-calculator-iv](https://github.com/Prathamesh250205/LeetCode/tree/master/0770-basic-calculator-iv) |
+| [0940-distinct-subsequences-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Prathamesh250205/LeetCode/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1763-longest-nice-substring](https://github.com/Prathamesh250205/LeetCode/tree/master/1763-longest-nice-substring) |
 | [1927-sum-game](https://github.com/Prathamesh250205/LeetCode/tree/master/1927-sum-game) |
@@ -660,6 +661,7 @@
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/Prathamesh250205/LeetCode/tree/master/0894-all-possible-full-binary-trees) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0940-distinct-subsequences-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Prathamesh250205/LeetCode/tree/master/1510-stone-game-iv) |
