@@ -752,6 +752,7 @@
 | [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Prathamesh250205/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2236-root-equals-sum-of-children](https://github.com/Prathamesh250205/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prathamesh250205/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -806,6 +807,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Prathamesh250205/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prathamesh250205/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/Prathamesh250205/LeetCode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -855,6 +857,7 @@
 | [1382-balance-a-binary-search-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [2049-count-nodes-with-the-highest-score](https://github.com/Prathamesh250205/LeetCode/tree/master/2049-count-nodes-with-the-highest-score) |
 | [2236-root-equals-sum-of-children](https://github.com/Prathamesh250205/LeetCode/tree/master/2236-root-equals-sum-of-children) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prathamesh250205/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Math
 |  |
