@@ -902,6 +902,7 @@
 | [0539-minimum-time-difference](https://github.com/Prathamesh250205/LeetCode/tree/master/0539-minimum-time-difference) |
 | [0770-basic-calculator-iv](https://github.com/Prathamesh250205/LeetCode/tree/master/0770-basic-calculator-iv) |
 | [0779-k-th-symbol-in-grammar](https://github.com/Prathamesh250205/LeetCode/tree/master/0779-k-th-symbol-in-grammar) |
+| [0836-rectangle-overlap](https://github.com/Prathamesh250205/LeetCode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Prathamesh250205/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
@@ -1481,4 +1482,8 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Prathamesh250205/LeetCode/tree/master/0037-sudoku-solver) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Prathamesh250205/LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
