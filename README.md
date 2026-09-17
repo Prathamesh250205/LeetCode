@@ -63,6 +63,7 @@
 | [1122-relative-sort-array](https://github.com/Prathamesh250205/LeetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prathamesh250205/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Prathamesh250205/LeetCode/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1763-longest-nice-substring](https://github.com/Prathamesh250205/LeetCode/tree/master/1763-longest-nice-substring) |
 | [1993-operations-on-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/1993-operations-on-tree) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Prathamesh250205/LeetCode/tree/master/2094-finding-3-digit-even-numbers) |
@@ -171,6 +172,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/Prathamesh250205/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0658-find-k-closest-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1763-longest-nice-substring](https://github.com/Prathamesh250205/LeetCode/tree/master/1763-longest-nice-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Prathamesh250205/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Prathamesh250205/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -404,6 +406,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prathamesh250205/LeetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Prathamesh250205/LeetCode/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1514-path-with-maximum-probability](https://github.com/Prathamesh250205/LeetCode/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/Prathamesh250205/LeetCode/tree/master/1563-stone-game-v) |
 | [1670-design-front-middle-back-queue](https://github.com/Prathamesh250205/LeetCode/tree/master/1670-design-front-middle-back-queue) |
@@ -461,6 +464,7 @@
 | [0658-find-k-closest-elements](https://github.com/Prathamesh250205/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Prathamesh250205/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Prathamesh250205/LeetCode/tree/master/0786-k-th-smallest-prime-fraction) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Prathamesh250205/LeetCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
@@ -674,6 +678,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Prathamesh250205/LeetCode/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Prathamesh250205/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Prathamesh250205/LeetCode/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Prathamesh250205/LeetCode/tree/master/1872-stone-game-viii) |
