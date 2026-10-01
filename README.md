@@ -333,6 +333,7 @@
 | [0120-triangle](https://github.com/Prathamesh250205/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prathamesh250205/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Prathamesh250205/LeetCode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Prathamesh250205/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Prathamesh250205/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -781,6 +782,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Prathamesh250205/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Prathamesh250205/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Prathamesh250205/LeetCode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prathamesh250205/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
@@ -1011,6 +1013,7 @@
 | [0064-minimum-path-sum](https://github.com/Prathamesh250205/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Prathamesh250205/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Prathamesh250205/LeetCode/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Prathamesh250205/LeetCode/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Prathamesh250205/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0427-construct-quad-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0427-construct-quad-tree) |
@@ -1124,6 +1127,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Prathamesh250205/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0126-word-ladder-ii) |
+| [0130-surrounded-regions](https://github.com/Prathamesh250205/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Prathamesh250205/LeetCode/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/Prathamesh250205/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Prathamesh250205/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1402,6 +1406,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prathamesh250205/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Prathamesh250205/LeetCode/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/Prathamesh250205/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/Prathamesh250205/LeetCode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Prathamesh250205/LeetCode/tree/master/0684-redundant-connection) |
