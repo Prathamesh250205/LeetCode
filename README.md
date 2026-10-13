@@ -902,6 +902,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Prathamesh250205/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Prathamesh250205/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Prathamesh250205/LeetCode/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/Prathamesh250205/LeetCode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Prathamesh250205/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Prathamesh250205/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Prathamesh250205/LeetCode/tree/master/0231-power-of-two) |
@@ -1514,6 +1515,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Prathamesh250205/LeetCode/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Prathamesh250205/LeetCode/tree/master/0836-rectangle-overlap) |
 ## Database
 |  |
